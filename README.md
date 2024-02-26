@@ -62,8 +62,6 @@ MediaPipe Holistic generates a set of key points or landmarks representing the p
 
 ![test2](https://github.com/Arpit-Avasarmol/Live-Human-Sign-Detection-with-Real-Time-Streaming-Data-using-MediaPipe-Holistic-Model-and-OpenCV/assets/88440241/6c1ef064-0d1a-48db-8480-28331a152bee)
 
-
 ![test3](https://github.com/Arpit-Avasarmol/Live-Human-Sign-Detection-with-Real-Time-Streaming-Data-using-MediaPipe-Holistic-Model-and-OpenCV/assets/88440241/2187f0cf-802d-4a5b-be52-9e079fcae766)
 
 
-<img src="https://github.com/Arpit-Avasarmol/Live-Human-Sign-Detection-with-Real-Time-Streaming-Data-using-MediaPipe-Holistic-Model-and-OpenCV/assets/88440241/76cae28a-2945-4f3d-9551-ce9a647e80fe" width="200" height="150">
