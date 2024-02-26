@@ -1,4 +1,4 @@
-# Live-Human-Sign-Detection-with-Real-Time-Streaming-Data-using-MediaPipe-Holistic-Model-and-OpenCV
+## Live-Human-Sign-Detection-with-Real-Time-Streaming-Data-using-MediaPipe-Holistic-Model-and-OpenCV
 
 **Overview**
 We manually extracted frames from sign language videos to generate two datasets: a static sign language dataset focusing on hand positions and gestures, and a gesture sign language dataset capturing entire sign language phrases, including full body movements, facial expressions, and hand gestures.
