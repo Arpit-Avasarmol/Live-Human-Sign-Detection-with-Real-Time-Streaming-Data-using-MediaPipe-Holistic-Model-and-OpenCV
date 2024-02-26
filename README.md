@@ -1,0 +1,1 @@
+# Live-Human-Sign-Detection-with-Real-Time-Streaming-Data-using-MediaPipe-Holistic-Model-and-OpenCV
